@@ -1,0 +1,8 @@
+$ cat > Bio.txt
+git init
+clear
+
+$ CLEAR
+clear
+
+
