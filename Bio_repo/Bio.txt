@@ -1,8 +1,5 @@
-$ cat > Bio.txt
-git init
-clear
-
-$ CLEAR
-clear
-
+Akim
+Jafarli
+19
+PA401
 
